@@ -7,6 +7,6 @@ import org.springframework.stereotype.Service;
 public class TheService {
 
     public TheDto theServiceFunction() {
-        return new TheDto("the message!");
+        return new TheDto("the message!!");
     }
 }
